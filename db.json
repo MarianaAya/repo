@@ -1,7 +1,7 @@
 {
  "pessoas":
  [
-	{	"id":1;
+	{	"id":1,
 		"nome":"Maria Eduarda",
 		"dataNasc":"2000-12-05",
 		"email":"asd@fwe.com",
@@ -13,7 +13,7 @@
 	},
 
 	{
-		"id":2;
+		"id":2,
 		"nome":"Maria Fernanda",
 		"dataNasc":"1999-11-05",
 		"email":"asd@fwfee.com",
