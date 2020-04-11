@@ -1,0 +1,28 @@
+{
+ "pessoas":
+ [
+	{	"id":1;
+		"nome":"Maria Eduarda",
+		"dataNasc":"2000-12-05",
+		"email":"asd@fwe.com",
+		"RA":"1",
+		"cidade":"Curitiba",
+		"curso":"Medicina",
+		"gosta":"sim",
+		"dificuldade":"facil"
+	},
+
+	{
+		"id":2;
+		"nome":"Maria Fernanda",
+		"dataNasc":"1999-11-05",
+		"email":"asd@fwfee.com",
+		"RA":"2",
+		"cidade":"Maringá",
+		"curso":"Medicina",
+		"gosta":"sim",
+		"dificuldade":"medio"
+	}
+ ]
+}	
+
